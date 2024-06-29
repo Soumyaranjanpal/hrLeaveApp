@@ -1,10 +1,10 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-export default function TabLayout() {
+export default function profile() {
   return (
     <View>
-      <Text>TabLayout</Text>
+      <Text>profile</Text>
     </View>
   );
 }
